@@ -1,0 +1,89 @@
+.header 
+{
+	border: solid wheat;
+	padding: 5px;
+	background-image: url(https://image.shutterstock.com/image-vector/vector-abstract-background-texture-design-260nw-646522975.jpg);
+	background-color: aquas;
+}
+.section
+{
+	background-color: lightgray;
+}
+.href
+{
+	text-align: right;
+    padding-right: 50px;
+	font-size:larger;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	word-spacing: 20px;
+}
+.header h1
+{
+	color:rgb(239, 15, 60);
+	margin-left: 50px;
+}
+.article
+{
+	border: solid;
+	border-color:rgb(11, 231, 11);
+	border-radius: 20px;
+	border-width: 7px;
+	padding: 10px;
+	width: 1100px; 
+	background-repeat: no-repeat;
+	background-image: url(../spotknock/cssbg1.jpg); 
+	background-size: cover;
+}
+.article h2
+{
+	color: rgb(26, 198, 221);
+}
+.article p
+{
+	color:brown;
+}
+.aside
+{
+    width:320px;
+    padding-top: 60px;
+	float:right;
+
+	
+}
+.aside div
+{
+	padding-top: 20px;
+	width: 10px;
+	/* color:gold; */
+}
+.footer
+{
+	background-image:url(https://mannatresorts.com/wp-content/uploads/2018/09/footer-background.png) ;
+	background-size: cover;
+	padding:50px;
+	color: aliceblue;
+	word-spacing: 20px;
+}
+ul {
+	list-style-type: none;
+    margin: 0; 
+	padding: 0; 
+	overflow: hidden;
+	background-color: #333;
+  }
+  
+  li {
+	float: left;
+  }
+  
+  li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+  }
+  
+li a:hover{
+    background-color:grey;
+}
